@@ -20,3 +20,5 @@ ESC - выход из игры
 res - папка с графикой
 build - создано при работе py2exe
 dist - результат работы py2exe, pekagame.py, собранный в exe
+
+Собранная версия тут https://dl.dropbox.com/u/3674101/sc2tv/pekagame_v2.zip
